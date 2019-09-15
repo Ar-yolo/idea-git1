@@ -31,6 +31,7 @@ public class luceneTest1 {
 //            TextField fileNameField = new TextField("filename", fileName, Field.Store.YES);
             Field fileNameField = new TextField("filename", fileName, Field.Store.YES);
         }
+        System.out.println("22222");
 
 
 
