@@ -31,7 +31,7 @@ public class luceneTest1 {
 //            TextField fileNameField = new TextField("filename", fileName, Field.Store.YES);
             Field fileNameField = new TextField("filename", fileName, Field.Store.YES);
         }
-        System.out.println("111");
+
 
 
 //5、把文档对象写入索引库
